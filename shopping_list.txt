@@ -2,4 +2,4 @@ kompiri x 3
 jogurt x 1
 domati x 10
 sirenje x 1
-pasteta x 4
+pasteta x 8
